@@ -23,12 +23,19 @@ This repository demonstrates how **real-world DevOps teams** design, automate, a
 
 ## 🎯 What You Will Learn
 
+
 ✔ How feature branches (`featureA`, `featureB`) are handled in CI/CD
+
 ✔ Pull Request (PR) based merge strategy using GitHub UI
+
 ✔ Jenkins Multibranch Pipeline auto-detection & execution
+
 ✔ Docker image build, tagging, and push to DockerHub
+
 ✔ Updating Kubernetes manifests via Git (GitOps model)
+
 ✔ Argo CD automated sync & deployment to AWS EKS
+
 ✔ Accessing the live application using LoadBalancer service
 
 ---
